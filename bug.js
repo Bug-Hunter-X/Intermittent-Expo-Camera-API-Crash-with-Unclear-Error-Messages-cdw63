@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with specific camera configurations and results in unexpected behavior or crashes.  The issue is not consistently reproducible, making it difficult to debug. The error messages are often unclear or generic, such as 'Camera failed to start' or a generic JavaScript error.
